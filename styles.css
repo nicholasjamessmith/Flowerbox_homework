@@ -1,0 +1,83 @@
+body {
+  background-color: whitesmoke;
+}
+
+.navigation {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #92b2ba;
+  width: auto;
+  padding-left: 7em;
+  padding-right: 7em;
+}
+
+.bannerimg {
+  max-width: 100%;
+  max-height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.row1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+}
+
+.row2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.row3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flower_row1 {
+  width: 200px;
+  height: 300px;
+  max-height: 300px;
+  background-color: blue;
+  display: inline-flex;
+  margin-right: .25in;
+  margin-top: .25in;
+}
+
+.flower_row2 {
+  width: 200px;
+  height: 300px;
+  max-height: 300px;
+  background-color: blue;
+  display: inline-flex;
+  margin-right: .25in;
+  margin-top: .25in;
+}
+
+.flower_row3 {
+  width: 200px;
+  height: 300px;
+  max-height: 300px;
+  background-color: blue;
+  display: inline-flex;
+  margin-right: .25in;
+  margin-top: .25in;
+}
+
+.footer {
+  width: 680px;
+  height: 200px;
+  max-height: 300px;
+  background-color: blue;
+  align-items: center;
+  justify-content: center;
+  margin-top: .25in;
+}
